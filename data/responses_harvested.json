@@ -1,5 +1,207 @@
 {
   "_note": "Bank respon hasil kontribusi pemain (otomatis dari API key mereka). Ditulis oleh relay (Cloudflare Worker), digabung ke bank saat game boot. Jangan edit manual; isi tumbuh sendiri. Format sama: {id,en}.",
-  "angry": [],
-  "snark": []
+  "angry": [
+    {
+      "id": "Lu beneran berani nyerang gue?!",
+      "en": "Lu beneran berani nyerang gue?!"
+    },
+    {
+      "id": "Gue lagi kesakitan, anjir!",
+      "en": "Gue lagi kesakitan, anjir!"
+    },
+    {
+      "id": "Serangan lu kayak sayur busuk!",
+      "en": "Serangan lu kayak sayur busuk!"
+    },
+    {
+      "id": "Goblok, mana skillnya?",
+      "en": "Goblok, mana skillnya?"
+    },
+    {
+      "id": "Harga diri lu kemana, bro?",
+      "en": "Harga diri lu kemana, bro?"
+    },
+    {
+      "id": "Makin sakit aja otak lu!",
+      "en": "Makin sakit aja otak lu!"
+    },
+    {
+      "id": "Bau apaan sih, goblok?!",
+      "en": "Bau apaan sih, goblok?!"
+    },
+    {
+      "id": "Gue bisa muntah kalau denger lu!",
+      "en": "Gue bisa muntah kalau denger lu!"
+    },
+    {
+      "id": "Jangan ngehe, lu bau banget!",
+      "en": "Jangan ngehe, lu bau banget!"
+    },
+    {
+      "id": "Kapan terakhir lu mandi, anjir?",
+      "en": "Kapan terakhir lu mandi, anjir?"
+    },
+    {
+      "id": "Muka sampah dan bau kayak arem-arem!",
+      "en": "Muka sampah dan bau kayak arem-arem!"
+    },
+    {
+      "id": "Gue pengen teleport ke tempat lain sekarang juga!",
+      "en": "Gue pengen teleport ke tempat lain sekarang juga!"
+    },
+    {
+      "id": "Hah! Lu kira bisa ngelawan gue?",
+      "en": "Hah! Lu kira bisa ngelawan gue?"
+    },
+    {
+      "id": "Gue udah bilang, ini gak lucu!",
+      "en": "Gue udah bilang, ini gak lucu!"
+    },
+    {
+      "id": "Anjir, lu sakit hati aja ya?",
+      "en": "Anjir, lu sakit hati aja ya?"
+    },
+    {
+      "id": "Keaaan, jangan sampe gue terbakar amarah!",
+      "en": "Keaaan, jangan sampe gue terbakar amarah!"
+    },
+    {
+      "id": "Lu lagi-lagi bikin gue pengen teriak!",
+      "en": "Lu lagi-lagi bikin gue pengen teriak!"
+    },
+    {
+      "id": "Bodo amat sama mantra lu yang receh!",
+      "en": "Bodo amat sama mantra lu yang receh!"
+    },
+    {
+      "id": "Goblok, lu pikir gue mau denger omong kosong lu?",
+      "en": "Goblok, lu pikir gue mau denger omong kosong lu?"
+    },
+    {
+      "id": "Lu bener-bener bikin gue muak, anjir!",
+      "en": "Lu bener-bener bikin gue muak, anjir!"
+    },
+    {
+      "id": "Serangan lu receh banget, ngapain coba?",
+      "en": "Serangan lu receh banget, ngapain coba?"
+    },
+    {
+      "id": "Kalo ini semua yang lu punya, saranin pensiun deh.",
+      "en": "Kalo ini semua yang lu punya, saranin pensiun deh."
+    },
+    {
+      "id": "Gue udah bilang jangan ganggu, tapi tetep aja, ya?!",
+      "en": "Gue udah bilang jangan ganggu, tapi tetep aja, ya?!"
+    },
+    {
+      "id": "Apa sih maksudnya nyisain dramanya di depan gue?",
+      "en": "Apa sih maksudnya nyisain dramanya di depan gue?"
+    },
+    {
+      "id": "Lu bener-bener bikin gue sakit kepala anjir!",
+      "en": "Lu bener-bener bikin gue sakit kepala anjir!"
+    },
+    {
+      "id": "Gue ga nyangka lu se-receh ini!",
+      "en": "Gue ga nyangka lu se-receh ini!"
+    }
+  ],
+  "snark": [
+    {
+      "id": "Sihir lu itu dari mana ya, pasar loak?",
+      "en": "Sihir lu itu dari mana ya, pasar loak?"
+    },
+    {
+      "id": "Tuh tongkat kebo, bukan yang mewah.",
+      "en": "Tuh tongkat kebo, bukan yang mewah."
+    },
+    {
+      "id": "Gue lebih paham sihir ketimbang semua mantra receh itu.",
+      "en": "Gue lebih paham sihir ketimbang semua mantra receh itu."
+    },
+    {
+      "id": "Kalau ngelawak gitu, mending diem deh!",
+      "en": "Kalau ngelawak gitu, mending diem deh!"
+    },
+    {
+      "id": "Sihir setara iklan sabun doang.",
+      "en": "Sihir setara iklan sabun doang."
+    },
+    {
+      "id": "Wah, keren banget sih bisa nyampah gitu.",
+      "en": "Wah, keren banget sih bisa nyampah gitu."
+    },
+    {
+      "id": "Sihir lu itu bikin inget deodorant, pantesan gak laku.",
+      "en": "Sihir lu itu bikin inget deodorant, pantesan gak laku."
+    },
+    {
+      "id": "Tongkat sambalnya mana, biar bisa nyelamatin hidung gue?",
+      "en": "Tongkat sambalnya mana, biar bisa nyelamatin hidung gue?"
+    },
+    {
+      "id": "Oh gitu ya, magic selalu butuh aroma busuk?",
+      "en": "Oh gitu ya, magic selalu butuh aroma busuk?"
+    },
+    {
+      "id": "Bisa-bisanya jadi penyihir tapi kurang peduli wangi.",
+      "en": "Bisa-bisanya jadi penyihir tapi kurang peduli wangi."
+    },
+    {
+      "id": "Lu bikin potion dari bahan apa sih? Ampas sampe baunya kayak gitu?",
+      "en": "Lu bikin potion dari bahan apa sih? Ampas sampe baunya kayak gitu?"
+    },
+    {
+      "id": "Nah loh, lebih baik lu buat mantra bersih-bersih dulu deh.",
+      "en": "Nah loh, lebih baik lu buat mantra bersih-bersih dulu deh."
+    },
+    {
+      "id": "Sihir lu itu kayak mainan anak kecil, goblok.",
+      "en": "Sihir lu itu kayak mainan anak kecil, goblok."
+    },
+    {
+      "id": "Serius? Lu pikir tongkat itu bisa ngetop?",
+      "en": "Serius? Lu pikir tongkat itu bisa ngetop?"
+    },
+    {
+      "id": "C'mon, sihir apa yang bisa lawan kesombongan?",
+      "en": "C'mon, sihir apa yang bisa lawan kesombongan?"
+    },
+    {
+      "id": "Gue udah liat lebih banyak trik sirkus di TV.",
+      "en": "Gue udah liat lebih banyak trik sirkus di TV."
+    },
+    {
+      "id": "Lu harus upgrade skill sihir lu yang receh ini.",
+      "en": "Lu harus upgrade skill sihir lu yang receh ini."
+    },
+    {
+      "id": "Sekali lagi, anjir itu amatir banget.",
+      "en": "Sekali lagi, anjir itu amatir banget."
+    },
+    {
+      "id": "Sihir mini ini dari mana, pasar malam?",
+      "en": "Sihir mini ini dari mana, pasar malam?"
+    },
+    {
+      "id": "Tongkat itu kayaknya lebih kecil dari otak lu.",
+      "en": "Tongkat itu kayaknya lebih kecil dari otak lu."
+    },
+    {
+      "id": "Gue harap mantra ini bukan sisa bekas gudeg ya.",
+      "en": "Gue harap mantra ini bukan sisa bekas gudeg ya."
+    },
+    {
+      "id": "Biasanya penyihir makan ramuan lebih maknyus daripada itu.",
+      "en": "Biasanya penyihir makan ramuan lebih maknyus daripada itu."
+    },
+    {
+      "id": "Anjir, mana nakal-nakalnya si mantra ini?",
+      "en": "Anjir, mana nakal-nakalnya si mantra ini?"
+    },
+    {
+      "id": "Skill issue parah kalo masih berani tantang gue.",
+      "en": "Skill issue parah kalo masih berani tantang gue."
+    }
+  ]
 }
