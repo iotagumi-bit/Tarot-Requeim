@@ -528,6 +528,106 @@
     {
       "id": "Gue udah bilang, jangan nyari alasan dari orang lain lagi!",
       "en": "Gue udah bilang, jangan nyari alasan dari orang lain lagi!"
+    },
+    {
+      "id": "Goblok, lu serius mau nyerang gue?",
+      "en": "Goblok, lu serius mau nyerang gue?"
+    },
+    {
+      "id": "Anjir, berani-beraninya lu ganggu guru iblis!",
+      "en": "Anjir, berani-beraninya lu ganggu guru iblis!"
+    },
+    {
+      "id": "Sama sekali nggak ada skill, kan?",
+      "en": "Sama sekali nggak ada skill, kan?"
+    },
+    {
+      "id": "Malu banget sih lu, emosi segini doang?",
+      "en": "Malu banget sih lu, emosi segini doang?"
+    },
+    {
+      "id": "Jangan mimpi bisa ngalahin bos iblis kayak gue!",
+      "en": "Jangan mimpi bisa ngalahin bos iblis kayak gue!"
+    },
+    {
+      "id": "Kecewa banget sama serangan receh dari lu.",
+      "en": "Kecewa banget sama serangan receh dari lu."
+    },
+    {
+      "id": "Gue benci banget sama lu!",
+      "en": "Gue benci banget sama lu!"
+    },
+    {
+      "id": "Nih, rasain sabetan gue deh!",
+      "en": "Nih, rasain sabetan gue deh!"
+    },
+    {
+      "id": "Sabar itu ada batasnya, goblok!",
+      "en": "Sabar itu ada batasnya, goblok!"
+    },
+    {
+      "id": "Bisa-bisanya lu ngelakuin ini?",
+      "en": "Bisa-bisanya lu ngelakuin ini?"
+    },
+    {
+      "id": "Jangan sekali lagi, anjir!",
+      "en": "Jangan sekali lagi, anjir!"
+    },
+    {
+      "id": "Gue mohon, jangan bikin gue marah!",
+      "en": "Gue mohon, jangan bikin gue marah!"
+    },
+    {
+      "id": "Lu bener-bener bikin gue kesel, anjir!",
+      "en": "Lu bener-bener bikin gue kesel, anjir!"
+    },
+    {
+      "id": "Bangsat, lu kira gue bisa gitu aja?",
+      "en": "Bangsat, lu kira gue bisa gitu aja?"
+    },
+    {
+      "id": "Toxic banget sih lu, otak seupil?",
+      "en": "Toxic banget sih lu, otak seupil?"
+    },
+    {
+      "id": "Gue bukan tempat sampah buat bullshit lu!",
+      "en": "Gue bukan tempat sampah buat bullshit lu!"
+    },
+    {
+      "id": "Rasa sakit yang gue rasain karena kebodohan lu!",
+      "en": "Rasa sakit yang gue rasain karena kebodohan lu!"
+    },
+    {
+      "id": "Goblok banget, lu kira ini permainan pura-pura?",
+      "en": "Goblok banget, lu kira ini permainan pura-pura?"
+    },
+    {
+      "id": "Anjir! Gak ada otak emang lu?!",
+      "en": "Anjir! Gak ada otak emang lu?!"
+    },
+    {
+      "id": "Lu bikin gue pengen teriak sampe bocor kuping!",
+      "en": "Lu bikin gue pengen teriak sampe bocor kuping!"
+    },
+    {
+      "id": "Mau jadi penonton aja, gak bosen?",
+      "en": "Mau jadi penonton aja, gak bosen?"
+    },
+    {
+      "id": "Gue udah bilang berhenti, tapi lu masih nyoba?",
+      "en": "Gue udah bilang berhenti, tapi lu masih nyoba?"
+    },
+    {
+      "id": "Coba cek apakah otak lu lagi ngaco ya!",
+      "en": "Coba cek apakah otak lu lagi ngaco ya!"
+    },
+    {
+      "id": "Lu beneran mau mainin gue?!",
+      "en": "Lu beneran mau mainin gue?!"
+    },
+    {
+      "id": "Bodoh, ini udah keterlaluan!",
+      "en": "Bodoh, ini udah keterlaluan!"
     }
   ],
   "snark": [
@@ -1042,6 +1142,102 @@
     {
       "id": "Kalo cuma gitu sih, tongkatnya juga ga bakal bantu.",
       "en": "Kalo cuma gitu sih, tongkatnya juga ga bakal bantu."
+    },
+    {
+      "id": "Lu pikir tongkat lucu itu bisa ngelawan gue?",
+      "en": "Lu pikir tongkat lucu itu bisa ngelawan gue?"
+    },
+    {
+      "id": "Sihir aneh itu cuma bikin downgrade, bro.",
+      "en": "Sihir aneh itu cuma bikin downgrade, bro."
+    },
+    {
+      "id": "Serius deh, mana ada magi yang sebanding sama ini?",
+      "en": "Serius deh, mana ada magi yang sebanding sama ini?"
+    },
+    {
+      "id": "Coba deh bawa sihir lebih pas buat lawan gue.",
+      "en": "Coba deh bawa sihir lebih pas buat lawan gue."
+    },
+    {
+      "id": "Tongkat kayu biasa buat apa di hadapan iblis kayak gue?",
+      "en": "Tongkat kayu biasa buat apa di hadapan iblis kayak gue?"
+    },
+    {
+      "id": "Gue udah lihat anak kecil yang lebih berbakat dari lu.",
+      "en": "Gue udah lihat anak kecil yang lebih berbakat dari lu."
+    },
+    {
+      "id": "Oh, sihir receh lu itu lucu banget ya?",
+      "en": "Oh, sihir receh lu itu lucu banget ya?"
+    },
+    {
+      "id": "Tongkat jelek doang ga bikin elo menang.",
+      "en": "Tongkat jelek doang ga bikin elo menang."
+    },
+    {
+      "id": "Sihir kapok dari zaman baheula? Goblok.",
+      "en": "Sihir kapok dari zaman baheula? Goblok."
+    },
+    {
+      "id": "Kalo gini, tongkat kayu juga bisa kali.",
+      "en": "Kalo gini, tongkat kayu juga bisa kali."
+    },
+    {
+      "id": "Coba deh belajar sihir dari internet aja.",
+      "en": "Coba deh belajar sihir dari internet aja."
+    },
+    {
+      "id": "Dengan skill kayak lu, ngapain sih main?",
+      "en": "Dengan skill kayak lu, ngapain sih main?"
+    },
+    {
+      "id": "Sihir lu tuh kayak main petak umpet, nggak jelas.",
+      "en": "Sihir lu tuh kayak main petak umpet, nggak jelas."
+    },
+    {
+      "id": "Tongkatnya kayak sapu, gak ada gregetnya.",
+      "en": "Tongkatnya kayak sapu, gak ada gregetnya."
+    },
+    {
+      "id": "Skill issue parah deh kalo ngandelin itu.",
+      "en": "Skill issue parah deh kalo ngandelin itu."
+    },
+    {
+      "id": "Nggak ngerti deh, kok bisa jadi penyihir ya?",
+      "en": "Nggak ngerti deh, kok bisa jadi penyihir ya?"
+    },
+    {
+      "id": "Mantra mega receh anjir, pantesan lemah.",
+      "en": "Mantra mega receh anjir, pantesan lemah."
+    },
+    {
+      "id": "Mending buruan balik ke dapur ngebuat jus.",
+      "en": "Mending buruan balik ke dapur ngebuat jus."
+    },
+    {
+      "id": "Sihir receh kayak gitu buat apa ya?",
+      "en": "Sihir receh kayak gitu buat apa ya?"
+    },
+    {
+      "id": "Tongkat lu lebih mirip sapu jatuh sih.",
+      "en": "Tongkat lu lebih mirip sapu jatuh sih."
+    },
+    {
+      "id": "Mantra langka apa yang diambil dari sampah?",
+      "en": "Mantra langka apa yang diambil dari sampah?"
+    },
+    {
+      "id": "Duh, spell kuno itu enggak laku bro.",
+      "en": "Duh, spell kuno itu enggak laku bro."
+    },
+    {
+      "id": "Sampai kapan pun, skill issue ga pernah mejeng.",
+      "en": "Sampai kapan pun, skill issue ga pernah mejeng."
+    },
+    {
+      "id": "Lu serius berani lawan gue dengan itu?",
+      "en": "Lu serius berani lawan gue dengan itu?"
     }
   ]
 }
