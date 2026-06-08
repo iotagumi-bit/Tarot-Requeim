@@ -224,6 +224,110 @@
     {
       "id": "Gue pengen teriak, anjir!",
       "en": "Gue pengen teriak, anjir!"
+    },
+    {
+      "id": "Momen romance? Lu bercanda, ya?",
+      "en": "Momen romance? Lu bercanda, ya?"
+    },
+    {
+      "id": "Goblok, ini bukan film romeo!",
+      "en": "Goblok, ini bukan film romeo!"
+    },
+    {
+      "id": "Bisa ga lu jaga mulut sedikit?",
+      "en": "Bisa ga lu jaga mulut sedikit?"
+    },
+    {
+      "id": "Bangsat, jangan nanya hal receh gitu!",
+      "en": "Bangsat, jangan nanya hal receh gitu!"
+    },
+    {
+      "id": "Gue pengen ngeludahin lu, pertanyaan goblok!",
+      "en": "Gue pengen ngeludahin lu, pertanyaan goblok!"
+    },
+    {
+      "id": "Sumpah, serangan lu lebih sakit dari kutukan!",
+      "en": "Sumpah, serangan lu lebih sakit dari kutukan!"
+    },
+    {
+      "id": "Kesakitan kayak gini gara-gara pertanyaan receh?",
+      "en": "Kesakitan kayak gini gara-gara pertanyaan receh?"
+    },
+    {
+      "id": "Lu nanya apa sih, anjir? Pikir sana!",
+      "en": "Lu nanya apa sih, anjir? Pikir sana!"
+    },
+    {
+      "id": "Apa otak lu buntu? Pertanyaan begini ngajakin pusing.",
+      "en": "Apa otak lu buntu? Pertanyaan begini ngajakin pusing."
+    },
+    {
+      "id": "Berharap si Toru jadi sukses? Goblok amat itu.",
+      "en": "Berharap si Toru jadi sukses? Goblok amat itu."
+    },
+    {
+      "id": "Anjir, lu berani nanya gaji gue?",
+      "en": "Anjir, lu berani nanya gaji gue?"
+    },
+    {
+      "id": "Gue udah bilang, ga ada yang peduli!",
+      "en": "Gue udah bilang, ga ada yang peduli!"
+    },
+    {
+      "id": "Fokus sama kerjaan lo yang receh itu!",
+      "en": "Fokus sama kerjaan lo yang receh itu!"
+    },
+    {
+      "id": "Lu pikir hidup ini main game?",
+      "en": "Lu pikir hidup ini main game?"
+    },
+    {
+      "id": "Dasar goblok, tanya mulu padahal hasilnya jelek!",
+      "en": "Dasar goblok, tanya mulu padahal hasilnya jelek!"
+    },
+    {
+      "id": "Gaji? Elu lihat skill elu dulu deh!",
+      "en": "Gaji? Elu lihat skill elu dulu deh!"
+    },
+    {
+      "id": "Gue gak ngerti, lu kayak gini terus!?",
+      "en": "Gue gak ngerti, lu kayak gini terus!?"
+    },
+    {
+      "id": "Distraksi? Lu cuma cari alasan goblok!",
+      "en": "Distraksi? Lu cuma cari alasan goblok!"
+    },
+    {
+      "id": "Bangsat, fokus aja dong, jangan aneh-aneh!",
+      "en": "Bangsat, fokus aja dong, jangan aneh-aneh!"
+    },
+    {
+      "id": "Serius deh lu, kayak gak ada usaha sama sekali.",
+      "en": "Serius deh lu, kayak gak ada usaha sama sekali."
+    },
+    {
+      "id": "Gue udah bilang banyak kali, tapi lu masih begini?",
+      "en": "Gue udah bilang banyak kali, tapi lu masih begini?"
+    },
+    {
+      "id": "Satu-satunya masalah di sini ya diri lu sendiri!",
+      "en": "Satu-satunya masalah di sini ya diri lu sendiri!"
+    },
+    {
+      "id": "Goblok, lu pikir gue juga nggak distraksi?",
+      "en": "Goblok, lu pikir gue juga nggak distraksi?"
+    },
+    {
+      "id": "Serius, lu nanya kayak gitu?",
+      "en": "Serius, lu nanya kayak gitu?"
+    },
+    {
+      "id": "Mau gue terjang sama mantra, biar fokus?",
+      "en": "Mau gue terjang sama mantra, biar fokus?"
+    },
+    {
+      "id": "Lu ada otak ga sih buat mikir?",
+      "en": "Lu ada otak ga sih buat mikir?"
     }
   ],
   "snark": [
@@ -442,6 +546,102 @@
     {
       "id": "Hantu seharusnya lebih pinter daripada pertanyaan ilc ini.",
       "en": "Hantu seharusnya lebih pinter daripada pertanyaan ilc ini."
+    },
+    {
+      "id": "Romance itu buat yang lemah, gausah mimpi.",
+      "en": "Romance itu buat yang lemah, gausah mimpi."
+    },
+    {
+      "id": "Coba dulu deh belajar sihir nyata!",
+      "en": "Coba dulu deh belajar sihir nyata!"
+    },
+    {
+      "id": "Sihir so-soan gitu nggak ada efeknya.",
+      "en": "Sihir so-soan gitu nggak ada efeknya."
+    },
+    {
+      "id": "Tongkat lu kayak mainan anak-anak.",
+      "en": "Tongkat lu kayak mainan anak-anak."
+    },
+    {
+      "id": "Romansa di sini? Mimpi kali!",
+      "en": "Romansa di sini? Mimpi kali!"
+    },
+    {
+      "id": "Pakai sihir agak serius lah, please.",
+      "en": "Pakai sihir agak serius lah, please."
+    },
+    {
+      "id": "Toru jadi developer game, emangnya skill dia segitu?",
+      "en": "Toru jadi developer game, emangnya skill dia segitu?"
+    },
+    {
+      "id": "V tuber? Lu tau di mana level skill-nya nggak?",
+      "en": "V tuber? Lu tau di mana level skill-nya nggak?"
+    },
+    {
+      "id": "Keren banget ya, cita-cita rendah lu... goblok.",
+      "en": "Keren banget ya, cita-cita rendah lu... goblok."
+    },
+    {
+      "id": "Sihir apa yang bisa membantu Toru di dunia nyata?",
+      "en": "Sihir apa yang bisa membantu Toru di dunia nyata?"
+    },
+    {
+      "id": "Jadi VTuber sambil mimpi indah mungkin lebih cocok buat dia.",
+      "en": "Jadi VTuber sambil mimpi indah mungkin lebih cocok buat dia."
+    },
+    {
+      "id": "Kayaknya tongkatnya butuh update deh buat jawab ini.",
+      "en": "Kayaknya tongkatnya butuh update deh buat jawab ini."
+    },
+    {
+      "id": "Naik gaji? Kayaknya elu butuh saran sihir lebih dari itu.",
+      "en": "Naik gaji? Kayaknya elu butuh saran sihir lebih dari itu."
+    },
+    {
+      "id": "Tongkat sihir ga bantu elo jadi lebih kaya, bro.",
+      "en": "Tongkat sihir ga bantu elo jadi lebih kaya, bro."
+    },
+    {
+      "id": "Elu perlu upgrade skill sebelum mikir gaji.",
+      "en": "Elu perlu upgrade skill sebelum mikir gaji."
+    },
+    {
+      "id": "Mana ada duit disini=hanya ilusi dari mantra lemah lu.",
+      "en": "Mana ada duit disini=hanya ilusi dari mantra lemah lu."
+    },
+    {
+      "id": "Sihir lu kayak harapan naik gaji, gak ada jalan.",
+      "en": "Sihir lu kayak harapan naik gaji, gak ada jalan."
+    },
+    {
+      "id": "Elu mau naik gaji apa mau belajar bertahan hidup dulu?",
+      "en": "Elu mau naik gaji apa mau belajar bertahan hidup dulu?"
+    },
+    {
+      "id": "Tanya mau bikin mantra baru atau gimana?",
+      "en": "Tanya mau bikin mantra baru atau gimana?"
+    },
+    {
+      "id": "Sihir distraksi baru dirilis ya? Keren juga.",
+      "en": "Sihir distraksi baru dirilis ya? Keren juga."
+    },
+    {
+      "id": "Coba pakai tongkat yang lebih berkualitas kali ya.",
+      "en": "Coba pakai tongkat yang lebih berkualitas kali ya."
+    },
+    {
+      "id": "Ah, mungkin sihir ini butuh upgrade versi.",
+      "en": "Ah, mungkin sihir ini butuh upgrade versi."
+    },
+    {
+      "id": "Lu pasti butuh buku petunjuk buat hal simpel gitu.",
+      "en": "Lu pasti butuh buku petunjuk buat hal simpel gitu."
+    },
+    {
+      "id": "Sihir biasa aja ngapain ngarepin hasil luar biasa?",
+      "en": "Sihir biasa aja ngapain ngarepin hasil luar biasa?"
     }
   ]
 }
